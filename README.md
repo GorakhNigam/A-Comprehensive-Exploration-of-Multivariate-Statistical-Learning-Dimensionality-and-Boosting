@@ -1,0 +1,2 @@
+# A-Comprehensive-Exploration-of-Multivariate-Statistical-Learning-Dimensionality-and-Boosting
+The experiments investigate topics ranging from Bayes error estimation, Leave-One-Out Cross-Validation (LOO-CV), and k-Nearest Neighbor (k-NN) classification, to Principal Component Analysis (PCA), Sparse PCA, Kernel PCA, Matching Pursuit algorithms, Gradient Boosting, and Optimization via Steepest Descent and Penalty Methods.
